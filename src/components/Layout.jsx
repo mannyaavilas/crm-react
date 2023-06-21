@@ -4,7 +4,7 @@ function Layout() {
 
     const location = useLocation()
 
-    console.log(location)
+    
 
   return (
     <div className='md:flex md:min-h-screen'>
